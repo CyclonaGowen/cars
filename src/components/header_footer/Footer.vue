@@ -1,7 +1,13 @@
 <template>
-  <div>FOOTER</div>
+  <footer>FOOTER</footer>
 </template>
 
 <script></script>
 
-<style scoped></style>
+<style scoped>
+footer {
+  background-color: #2196f3;
+  padding: 20px;
+  color: #ffffff;
+}
+</style>
